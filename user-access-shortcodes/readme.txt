@@ -1,8 +1,8 @@
 === User Access Shortcodes ===
 Contributors: spwebguy
-Tags: access, users, user, logged, logged in, registered, logged in, shortcodes, shortcode, content, restrict, control, posts, pages, block, restriction, button, editor 
+Tags: access shortcodes, users, user, logged, logged in,  
 Requires at least: 3.6
-Tested up to: 6.5
+Tested up to: 6.9
 Stable tag: 2.3
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
